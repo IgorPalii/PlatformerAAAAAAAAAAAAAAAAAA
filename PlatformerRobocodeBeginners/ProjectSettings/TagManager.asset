@@ -8,6 +8,8 @@ TagManager:
   - Platform
   - Wall
   - HangPoint
+  - Coin
+  - Enemy
   layers:
   - Default
   - TransparentFX
